@@ -7,10 +7,10 @@
 ### Project Overview 
 This project provides an in-depth analysis of a dataset centered on road accidents, with a focus on understanding the factors contributing to accidents, the locations with higher incident rates, and potential areas for enhanced road safety measures. By examining the data on road accident occurrences in various cities in the UK, this study aims to uncover patterns to inform targeted interventions and improve road safety outcomes.
 
-### Table Of Contents
-- [Dashboard](https://github.com/Iripia/Road-Accident-Analysis/blob/main/Road%20accident%20dashboard.png)
-- [Insights gained](Results/Insights-gained)
-- [Recommendations](Recommendations)
+## Table Of Contents
+- [Dashboard](#dashboard)
+- [Insights Gained](#insights-gained)
+- [Recommendations](#recommendations)
   
 ### Tool Used
 Excel
@@ -45,9 +45,10 @@ This involved exploring the road accident data to answer key questions such as:
 
 7. Relation between Casualties by Area/ Location & by Day/ Night
 
-![](https://github.com/Iripia/Road-Accident-Analysis/blob/main/Road%20accident%20dashboard.png)
+### Dashboard
+![](Road_accident_dashboard.png)
 
-### Results/Insights gained:
+### Insights Gained:
 
 - With a total of 417, 882 casualties where 2% make up fatal casualties, 14% make up serious casualties, and 84% make up slight casualties, the data indicates that cars are the most common vehicle type involved in road accidents, with a substantial 79.80% share of total casualties.
 
