@@ -41,6 +41,7 @@ This involved exploring the road accident data to answer key questions such as:
 
 7. Relation between Casualties by Area/ Location & by Day/ Night
 
+![](https://github.com/Iripia/Road-Accident-Analysis/blob/main/Road%20accident%20dashboard.png)
 
 ### Results/Insights gained:
 
