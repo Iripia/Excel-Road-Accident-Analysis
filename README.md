@@ -7,7 +7,11 @@
 ### Project Overview 
 This project provides an in-depth analysis of a dataset centered on road accidents, with a focus on understanding the factors contributing to accidents, the locations with higher incident rates, and potential areas for enhanced road safety measures. By examining the data on road accident occurrences in various cities in the UK, this study aims to uncover patterns to inform targeted interventions and improve road safety outcomes.
 
-
+### Table Of Contents
+- [Dashboard](https://github.com/Iripia/Road-Accident-Analysis/blob/main/Road%20accident%20dashboard.png)
+- [Insights gained](Results/Insights-gained)
+- [Recommendations](Recommendations)
+  
 ### Tool Used
 Excel
 
